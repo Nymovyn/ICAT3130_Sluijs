@@ -39,7 +39,7 @@ The app was able to connect to FireBase, even though executing the functions was
 
 A login screen was also implemented but it was commented for the sake of making a release of the .apk file. Ultimately the login screen didn't work because the FireBase functions not behaving as expected.
 <p align="center">
-    <img src="AirHead/readassets/firebase_connection.PNG" alt="Firebase Connection" height="400" />
+    <img src="AirHead/readassets/login.png" alt="User Auth" height="400" />
 </p>
 
 ## Author Comment
