@@ -3,14 +3,6 @@ An organization app that warns you once you leave your house if you have all the
 
 It works by sending you a notification once you lose the wifi connection as you leave your house. So, unless you forgot your keys, you can come back for the other items!
 
-<p align="center">
-    <img src="Resources/Mockup/mobile.png" alt="Mockup" height="400" />
-    <img src="Resources/Mockup/app.gif" alt="App" height="400" />
-    <br />
-    <img src="Resources/Mockup/todos-react-native.png" alt="Mockup" />
-</p>
-
-
 # Table of Contents
 
 - [Technology Used](#technology-used)
