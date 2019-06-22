@@ -44,6 +44,7 @@ A login screen was also implemented but it was commented for the sake of making 
 
 ## Author Comment
 Miguel Sluijs b113436
+
 This was my first experience with react-native and it was no easy task. The modules become outdated quite quick and whatever examples are used as a reference won't even compile straight from other repositories. The project doesn't meet its own requirements, however, an attempt was made to explore the framework and the problems and advantages that arise from it. The project development stopped to a halt when firebase functions weren't being called properly and react-native-elements kept throwing errors on the node console about non-existent directories.
 
 
